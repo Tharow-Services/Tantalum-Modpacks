@@ -1,0 +1,43 @@
+{
+  "name": "almura-3",
+  "displayName": "Almura 3 - Resurrected",
+  "platformUrl": "https://www.technicpack.net/modpack/almura-3.1098893",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/1098893.png?1550972204",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/1098893.png?1550972204",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/1098893.jpg?1550972204",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0",
+  "solder": "http://solder.almuramc.com/api/",
+  "description": "Almura 3 - Resurrected, Now Open!!!",
+  "ratings": 10,
+  "runs": 8213,
+  "downloads": 977,
+  "isServer": true,
+  "isOfficial": false,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "Almura",
+      "date": 1592968983,
+      "content": "Posted b97 this evening.  Be sure to check out the change log, lots of changes, fixes and things added since b89!.  Come and join us!",
+      "avatar": "https://www.gravatar.com/avatar/7ad6b5d9fc530914d3d5c3e895381db5?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/4300118"
+    },
+    {
+      "user": "Almura",
+      "date": 1585445364,
+      "content": "Posted b89 this evening.  Big update including in-game memberships, custom block placement fixes, skills changes etc!.  Check the in-game guide system -\u003e Change log for more details.",
+      "avatar": "https://www.gravatar.com/avatar/7ad6b5d9fc530914d3d5c3e895381db5?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/3570349"
+    }
+  ]
+}

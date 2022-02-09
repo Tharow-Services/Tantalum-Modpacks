@@ -1,0 +1,55 @@
+{
+  "name": "rl-craft",
+  "displayName": "Shivaxi RLCraft",
+  "url": "https://github.com/Tharow-Services/Tantalum-Modpacks/releases/download/latest/rl-craft.zip",
+  "icon": {
+    "url": "",
+    "md5": ""
+  },
+  "logo": {
+    "url": "",
+    "md5": ""
+  },
+  "background": {
+    "url": "",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.0.0",
+  "description": "A modpack specially designed to bring an incredibly hardcore and semi-realism challenge revolving around survival, RPG elements, and adventure-like exploration.",
+  "ratings": 10,
+  "runs": 10,
+  "downloads": 10,
+  "isServer": true,
+  "isOfficial": true,
+  "feed": [
+    {
+      "user": "Land",
+      "date": 1,
+      "content": "Java Programing Language And The Java Virtual Machine",
+      "avatar": "https://tantalum.tharow.net/platform/launcher/TharowT-Avatar.png",
+      "url": "about:blank"
+    },
+    {
+      "user": "Capital",
+      "date": 2,
+      "content": "Source code for launcher, and its platforms",
+      "avatar": "https://tantalum.tharow.net/platform/launcher/TharowT-Avatar.png",
+      "url": "about:blank"
+    },
+    {
+      "user": "Labor",
+      "date": 3,
+      "content": "Programing the launcher, Designing the interfaces, Setting Up Platform Servers",
+      "avatar": "https://tantalum.tharow.net/platform/launcher/TharowT-Avatar.png",
+      "url": "about:blank"
+    },
+    {
+      "user": "Entrepreneurship",
+      "date": 4,
+      "content": "Complieing Source Code, Code Signing/Publishing. Platform Hosting, Adding Modpacks and the like",
+      "avatar": "https://tantalum.tharow.net/platform/launcher/TharowT-Avatar.png",
+      "url": "about:blank"
+    }
+  ]
+}
