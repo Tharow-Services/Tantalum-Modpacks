@@ -1,0 +1,24 @@
+{
+    "build": 230,
+    "url": {
+        "exe": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-230/launcher.exe",
+        "jar": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-230/launcher.jar"
+    },
+    "resources": [
+        {
+            "filename": "OpenSans+Cyberbit.ttf",
+            "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/assets/launcher/OpenSans%2BCyberbit.ttf",
+            "md5": "94a9d4cbcb9ceaa25000fa303fa81acc"
+        },
+        {
+            "filename": "Raleway+FireflySung.ttf",
+            "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/assets/launcher/Raleway%2BFireflySung.ttf",
+            "md5": "b62087eb4b11746987c800c0512890ef"
+        },
+        {
+            "filename": "authlib-injector.jar",
+            "url": "https://github.com/yushijinhun/authlib-injector/releases/download/v1.1.40/authlib-injector-1.1.40.jar",
+            "md5": "A6BDF3589800031197A375C96BBDDB07"
+        }
+    ]
+}
