@@ -15,7 +15,7 @@
                 "manifest": {
                     "sha1": "e968e71afd3360e5032deac19e1c14d7aa32f5bb",
                     "size": 81882,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/master/runtimes/manifests/java-runtime-alpha."
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/java-runtime-alpha.json"
                 },
                 "version": {
                     "name": "16.0.1.9.1",
@@ -32,7 +32,7 @@
                 "manifest": {
                     "sha1": "00045968710898a03aaae8bb08060019e4c97f6d",
                     "size": 81503,
-                    "url": "https://launchermeta.mojang.com/v1/packages/00045968710898a03aaae8bb08060019e4c97f6d/manifest.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/java-runtime-beta.json"
                 },
                 "version": {
                     "name": "17.0.1.12.1",
@@ -47,9 +47,9 @@
                     "progress": 100
                 },
                 "manifest": {
-                    "sha1": "a1c15cc788f8893fba7e988eb27404772f699a84",
+                    "sha1": "10389177DE3ECED7CAC363237340F29125270125",
                     "size": 125581,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/master/runtimes/manifests/jre-legacy.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/jre-legacy.json"
                 },
                 "version": {
                     "name": "8u202",
