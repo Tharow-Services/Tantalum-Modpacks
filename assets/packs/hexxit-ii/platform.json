@@ -1,0 +1,92 @@
+{
+  "name": "hexxit-ii",
+  "displayName": "Hexxit II",
+  "platformUrl": "https://www.technicpack.net/modpack/hexxit-ii.896745",
+  "icon": {
+    "url": "https://cdn.technicpack.net/platform2/pack-icons/896745.png?1642542292",
+    "md5": ""
+  },
+  "logo": {
+    "url": "https://cdn.technicpack.net/platform2/pack-logos/896745.png?1642542292",
+    "md5": ""
+  },
+  "background": {
+    "url": "https://cdn.technicpack.net/platform2/pack-backgrounds/896745.jpg?1642542292",
+    "md5": ""
+  },
+  "minecraft": "1.12.2",
+  "version": "1.3.1",
+  "solder": "https://solder.technicpack.net/api/",
+  "description": "Your adventure awaits once more. The only question is: shall you take up the mantle, equip yourself, and venture forth to what lays undiscovered?",
+  "ratings": 2,
+  "runs": 500320,
+  "downloads": 180118,
+  "isServer": false,
+  "isOfficial": true,
+  "discordServerId": "",
+  "feed": [
+    {
+      "user": "xJon",
+      "date": 1642542277,
+      "content": "Updated to version 1.3.1",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/2039126"
+    },
+    {
+      "user": "xJon",
+      "date": 1641687086,
+      "content": "Updated to version 1.3.0",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/2033855"
+    },
+    {
+      "user": "xJon",
+      "date": 1639319644,
+      "content": "PSA: If you want to increase Infernal Mobs\u0027 difficulty, go to hexxit-ii\\config\\infernalmobs.cfg to enable all abilities (L#121,138) \u0026 lower rarity of higher-tier Infernal Mobs (L#173,163; lower number \u003d more common). Also, use Hexxit Gear abilities (\u0027H\u0027)!",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/status/4718320"
+    },
+    {
+      "user": "xJon",
+      "date": 1639254261,
+      "content": "Updated to version 1.2.1",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/2019166"
+    },
+    {
+      "user": "xJon",
+      "date": 1638924074,
+      "content": "Updated to version 1.2.0",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/2017303"
+    },
+    {
+      "user": "xJon",
+      "date": 1636063578,
+      "content": "Updated to version 1.1.0",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/2000572"
+    },
+    {
+      "user": "xJon",
+      "date": 1635630991,
+      "content": "Updated to version 1.0.2",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/1997924"
+    },
+    {
+      "user": "xJon",
+      "date": 1635476904,
+      "content": "Updated to version 1.0.1",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/1996950"
+    },
+    {
+      "user": "xJon",
+      "date": 1635022952,
+      "content": "Updated to version 1.0.0",
+      "avatar": "https://www.gravatar.com/avatar/d593acb99c078196c657559168b57a6e?s\u003d60\u0026d\u003dretro",
+      "url": "https://www.technicpack.net/modpack/hexxit-ii.896745/changelog/1993811"
+    }
+  ]
+}
