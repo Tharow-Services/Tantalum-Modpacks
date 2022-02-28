@@ -106,7 +106,7 @@
                     "progress": 100
                 },
                 "manifest": {
-                    "sha1": "d1455136997ca90bfa5f081159dc2502606ec1c1",
+                    "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
                     "size": 95464,
                     "url": "https://launchermeta.mojang.com/v1/packages/d1455136997ca90bfa5f081159dc2502606ec1c1/manifest.json"
                 },
@@ -143,7 +143,7 @@
                     "progress": 100
                 },
                 "manifest": {
-                    "sha1": "0586267ba40236e176925da17ca0d29dead3d30d",
+                    "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
                     "size": 145480,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/java-runtime-alpha.json"
                 },
@@ -230,7 +230,7 @@
                     "progress": 100
                 },
                 "manifest": {
-                    "sha1": "6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a",
+                    "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
                     "size": 145146,
                     "url": "https://launchermeta.mojang.com/v1/packages/6c8a5052ca3cb2d6d4c44c708fd9a229fc66221a/manifest.json"
                 },
