@@ -161,7 +161,7 @@
                 },
                 "manifest": {
                     "size": 145530,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/java-runtime-beta-striped.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/manifests/java-runtime-beta.json"
                 },
                 "version": {
                     "name": "17.0.1.12.1",
