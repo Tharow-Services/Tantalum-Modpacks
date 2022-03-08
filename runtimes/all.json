@@ -33,7 +33,7 @@
                 "manifest": {
                     "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
                     "size": 145480,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/manifests/java-runtime-alpha.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/java-runtime-alpha.json"
                 },
                 "version": {
                     "name": "16.0.1.9.1",
@@ -49,8 +49,8 @@
                 },
                 "manifest": {
                     "size": 145530,
-                    "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/manifests/java-runtime-beta.json"
+                    "sha1": "b43b73cfdebcd7923d3bc73d63324a1db991d86e",
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/java-runtime-beta.json"
                 },
                 "version": {
                     "name": "17.0.1.12.1",
@@ -67,7 +67,7 @@
                 "manifest": {
                     "sha1": "68f58ed5fed0535918776590211fff3b802ae97d",
                     "size": 78978,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/manifests/jre-legacy.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy.json"
                 },
                 "version": {
                     "name": "8u51",
@@ -84,7 +84,7 @@
                 "manifest": {
                     "sha1": "956d6567682740ab6327a1e8357658d8f7b86421",
                     "size": 455,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/manifests/minecraft-java-exe.json"
+                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/minecraft-java-exe.json"
                 },
                 "version": {
                     "name": "14",
