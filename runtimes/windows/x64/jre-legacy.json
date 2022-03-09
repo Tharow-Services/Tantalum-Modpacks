@@ -3,7 +3,7 @@
         "COPYRIGHT": {
             "downloads": {
                 "raw": {
-                    "sha1": "1909c04288dd294dd539723c0ca3289656ade95d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3244,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/COPYRIGHT"
                 }
@@ -14,7 +14,7 @@
         "LICENSE": {
             "downloads": {
                 "raw": {
-                    "sha1": "3e86865deec0814c958bcf7fb87f790bccc0e8bd",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 40,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/LICENSE"
                 }
@@ -25,7 +25,7 @@
         "README.txt": {
             "downloads": {
                 "raw": {
-                    "sha1": "f90331df1e5badeadc501d8dd70714c62a920204",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 46,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/README.txt"
                 }
@@ -36,7 +36,7 @@
         "THIRDPARTYLICENSEREADME-JAVAFX.txt": {
             "downloads": {
                 "raw": {
-                    "sha1": "d13cac18fec0c71d4a5cb550f6fa93fc60c39e45",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 110114,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/THIRDPARTYLICENSEREADME-JAVAFX.txt"
                 }
@@ -47,7 +47,7 @@
         "THIRDPARTYLICENSEREADME.txt": {
             "downloads": {
                 "raw": {
-                    "sha1": "8fa753c36aec630b1a7a56e57b988c67aaf4cfd4",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 178403,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/THIRDPARTYLICENSEREADME.txt"
                 }
@@ -58,7 +58,7 @@
         "Welcome.html": {
             "downloads": {
                 "raw": {
-                    "sha1": "8d1db6cd5df4626eee7df051e2dedcf28ed08b51",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 955,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/Welcome.html"
                 }
@@ -72,7 +72,7 @@
         "bin/JAWTAccessBridge-64.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "6322a0a207ce822e521950c5124afc77a572023a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15456,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/JAWTAccessBridge-64.dll"
                 }
@@ -83,7 +83,7 @@
         "bin/JavaAccessBridge-64.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "ca1914343d02ccd2c28907de4595f018e86bf984",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 142944,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/JavaAccessBridge-64.dll"
                 }
@@ -94,7 +94,7 @@
         "bin/WindowsAccessBridge-64.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "756ab35b823e3b403a0757a7d13fb937ef51bf6b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 110688,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/WindowsAccessBridge-64.dll"
                 }
@@ -105,7 +105,7 @@
         "bin/awt.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "407977085c52d84de710abd103e9961a70c3e038",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1516640,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/awt.dll"
                 }
@@ -116,7 +116,7 @@
         "bin/bci.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "f0916fdead2b0a567212ce617d88424db446f102",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 16992,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/bci.dll"
                 }
@@ -127,7 +127,7 @@
         "bin/dcpr.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "71be1d2fb07860d22d0fab60c22523f9a95751e0",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 159840,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/dcpr.dll"
                 }
@@ -138,7 +138,7 @@
         "bin/decora_sse.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "5335de31ef5058a7ca84598dd228dcbca231588d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 86112,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/decora_sse.dll"
                 }
@@ -149,7 +149,7 @@
         "bin/deploy.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "ef377955905bd228548a02e55ba65800271ab059",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 576608,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/deploy.dll"
                 }
@@ -160,7 +160,7 @@
         "bin/dt_shmem.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b025e2bab50ccf0f5d9a38dc56d6e7a9f1d058ed",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 29792,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/dt_shmem.dll"
                 }
@@ -171,7 +171,7 @@
         "bin/dt_socket.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "6ae2fb0a770e2a00694d518050f894a12e5bf378",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 24672,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/dt_socket.dll"
                 }
@@ -185,7 +185,7 @@
         "bin/dtplugin/deployJava1.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "acec5ab33ed56c5c9dde20273c93b53c8f9a7a7d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1013344,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/dtplugin/deployJava1.dll"
                 }
@@ -196,7 +196,7 @@
         "bin/dtplugin/npdeployJava1.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "aca74def7a2cd033f18fc938ceb2feef2de8cb8c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1140832,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/dtplugin/npdeployJava1.dll"
                 }
@@ -207,7 +207,7 @@
         "bin/eula.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "4adbe10d110efb17e3ee6713e92a3e3f9bfe8d8f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 136288,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/eula.dll"
                 }
@@ -218,7 +218,7 @@
         "bin/fontmanager.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "9fed686fd40ba50c407d1ab4e76da4dd717117b9",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 274016,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/fontmanager.dll"
                 }
@@ -229,7 +229,7 @@
         "bin/fxplugins.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "190a3534faafba52f64a0cc7e3ea0e393ce18a50",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 187488,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/fxplugins.dll"
                 }
@@ -240,7 +240,7 @@
         "bin/glass.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "ffc9666a08bae5fa2ee5ee55be1523a7377bb328",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 256608,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/glass.dll"
                 }
@@ -251,7 +251,7 @@
         "bin/glib-lite.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "25b95124b429b44470110615179be58569b77395",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 456288,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/glib-lite.dll"
                 }
@@ -262,7 +262,7 @@
         "bin/gstreamer-lite.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "8ff56d205bb34c6322e6d7a2195da83cb8e3bc5c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 622176,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/gstreamer-lite.dll"
                 }
@@ -273,7 +273,7 @@
         "bin/hprof.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "e5eda732f915417b7bf642464f56f640b2117f2a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 157792,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/hprof.dll"
                 }
@@ -284,7 +284,7 @@
         "bin/instrument.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "5bfd3d772a2cf720ba385930f9f0332bb12f2746",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 123488,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/instrument.dll"
                 }
@@ -295,7 +295,7 @@
         "bin/j2pcsc.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "9d396dc2dcf40dad178d4a154c99b9342526b400",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 19040,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/j2pcsc.dll"
                 }
@@ -306,7 +306,7 @@
         "bin/j2pkcs11.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b4d5076c50c8f67e1227dd1e3c9e8c34c22012fd",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 63584,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/j2pkcs11.dll"
                 }
@@ -317,7 +317,7 @@
         "bin/jaas_nt.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "3631d096e49404e087aa10d309b7b8a5c026c2d1",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 21088,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jaas_nt.dll"
                 }
@@ -328,7 +328,7 @@
         "bin/jabswitch.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "685293fdc6362e0f69236523326b29e33133381e",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 33888,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jabswitch.exe"
                 }
@@ -339,7 +339,7 @@
         "bin/java-rmi.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "75ecfbf01b12ff56be99e81e396d50a7dd7b95d3",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15456,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/java-rmi.exe"
                 }
@@ -350,7 +350,7 @@
         "bin/java.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b79de1ce1b96ad0c3d00c8a32e55043eaeb1bad7",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 157792,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/java.dll"
                 }
@@ -361,7 +361,7 @@
         "bin/java.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "e69bffb8015f7f6d2593a357141a153208de53a0",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 206432,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/java.exe"
                 }
@@ -372,7 +372,7 @@
         "bin/java_crw_demo.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "5ce4b6fa32205d98e59d76483eadfdf42816a125",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 29792,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/java_crw_demo.dll"
                 }
@@ -383,7 +383,7 @@
         "bin/javacpl.cpl": {
             "downloads": {
                 "raw": {
-                    "sha1": "4b40a979d753d8f294a21dae4e8104439ae1ae7b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 169984,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javacpl.cpl"
                 }
@@ -394,7 +394,7 @@
         "bin/javacpl.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "871d70960ff7db8c6d11fad68d0a325d7fc540f1",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 76896,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javacpl.exe"
                 }
@@ -405,7 +405,7 @@
         "bin/javafx_font.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "23f67a8e2783c044e8178f124be1c34ba854fa6a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 74848,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javafx_font.dll"
                 }
@@ -416,7 +416,7 @@
         "bin/javafx_font_t2k.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "bb705c4af24fe615d7c0259d6ec8c3327bf3afa2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 539232,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javafx_font_t2k.dll"
                 }
@@ -427,7 +427,7 @@
         "bin/javafx_iio.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "628250b5008f4469f454a7498fdf26a76843462f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 136800,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javafx_iio.dll"
                 }
@@ -438,7 +438,7 @@
         "bin/javaw.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "920752e4c22e1165e6df27f69599483187edfbb3",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 206944,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javaw.exe"
                 }
@@ -449,7 +449,7 @@
         "bin/javaws.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "823ed6c635bd7851ccef43cbe23518267327ae9a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 321632,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/javaws.exe"
                 }
@@ -460,7 +460,7 @@
         "bin/jawt.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "a459c50fb87d1eb02dd2636eda9f0131f07fc2cf",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 14432,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jawt.dll"
                 }
@@ -471,7 +471,7 @@
         "bin/jdwp.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "005f6bea247a1841c97a1892fbe919beedc4d053",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 201312,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jdwp.dll"
                 }
@@ -482,7 +482,7 @@
         "bin/jfr.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "0616d4a819bb5f3a45252beaab3d86f426f03487",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 26720,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jfr.dll"
                 }
@@ -493,7 +493,7 @@
         "bin/jfxmedia.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "c230fcd9a7508dacfd04c8b90f5d0e129e47bdaf",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 138848,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jfxmedia.dll"
                 }
@@ -504,7 +504,7 @@
         "bin/jfxwebkit.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "5f86143e3e19f75e0a0fd6169ff08d8f9a7c356d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 20755040,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jfxwebkit.dll"
                 }
@@ -515,7 +515,7 @@
         "bin/jjs.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "ef4f4194c50e36cc6673b96a865e11a5254fb226",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15456,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jjs.exe"
                 }
@@ -526,7 +526,7 @@
         "bin/jli.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "f6b54e9f0b07c72d281f6226fe23e7256d5e8d58",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 174688,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jli.dll"
                 }
@@ -537,7 +537,7 @@
         "bin/jp2iexp.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "7bce3ac298f3a0fb3965fab8efc46c7aef572465",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 289888,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jp2iexp.dll"
                 }
@@ -548,7 +548,7 @@
         "bin/jp2launcher.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "b53f6477d45b2010389b69bbb4cdf03bb6af4a63",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 101472,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jp2launcher.exe"
                 }
@@ -559,7 +559,7 @@
         "bin/jp2native.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "80141f3bab469d9796aece9f8cb38b8b9b822603",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 20064,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jp2native.dll"
                 }
@@ -570,7 +570,7 @@
         "bin/jp2ssv.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "0ec8a8ec739b22a42667d18e483027efa0b8021b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 212576,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jp2ssv.dll"
                 }
@@ -581,7 +581,7 @@
         "bin/jpeg.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "1f6472f3cd45c647b82fd8a4cd506509963960f6",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 185440,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jpeg.dll"
                 }
@@ -592,7 +592,7 @@
         "bin/jsdt.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b50f52a73209af1914dda32c52516ce0c98c7be4",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 18528,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jsdt.dll"
                 }
@@ -603,7 +603,7 @@
         "bin/jsound.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "d47f2179b2606b9e5c90909fc2424ec96b5d64fa",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 35424,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jsound.dll"
                 }
@@ -614,7 +614,7 @@
         "bin/jsoundds.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "667e7e91de9a113f35cdfaf8071375d1ef684fd7",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 31328,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/jsoundds.dll"
                 }
@@ -625,7 +625,7 @@
         "bin/kcms.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "579ca056cf6719991e043f0fc1b5d32e639f5921",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 220768,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/kcms.dll"
                 }
@@ -636,7 +636,7 @@
         "bin/keytool.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "50e57c7aec913c9847e07e9ca831bfa9d23760ff",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/keytool.exe"
                 }
@@ -647,7 +647,7 @@
         "bin/kinit.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "8bbcab26fac38983972d5c506740a51cedc20670",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/kinit.exe"
                 }
@@ -658,7 +658,7 @@
         "bin/klist.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "4689d5f8a8adddd36a2d9cfdbe103d21e6f8bdf3",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/klist.exe"
                 }
@@ -669,7 +669,7 @@
         "bin/ktab.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "e1f0a5aa01a0cda62635d4ac361368a44899bcdd",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/ktab.exe"
                 }
@@ -680,7 +680,7 @@
         "bin/lcms.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "2a5191ffade771e84a634b308296f79e01ae12c2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 234080,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/lcms.dll"
                 }
@@ -691,7 +691,7 @@
         "bin/management.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "4159d867c635d1eb369f185313e82c8d2ffe6c64",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 36960,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/management.dll"
                 }
@@ -702,7 +702,7 @@
         "bin/mlib_image.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "aa4466045b65a2d7761e48f6ea7958a1e5dcf481",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 653920,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/mlib_image.dll"
                 }
@@ -713,7 +713,7 @@
         "bin/msvcr100.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b7b9349b33230c5b80886f5c1f0a42848661c883",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 829264,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/msvcr100.dll"
                 }
@@ -724,7 +724,7 @@
         "bin/net.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "6ff2b3dd64d32be4ea21d21680a5a40cb8ac3ca2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 94304,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/net.dll"
                 }
@@ -735,7 +735,7 @@
         "bin/nio.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "551dc409379688bce07f5d805c72407598e1371c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 59488,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/nio.dll"
                 }
@@ -746,7 +746,7 @@
         "bin/npt.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "e061b4c68926c17d5c6656e2e89a16505cbb0184",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 19040,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/npt.dll"
                 }
@@ -757,7 +757,7 @@
         "bin/orbd.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "7096dd1122714c2fa33fc7917a40693ba6e5fabe",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/orbd.exe"
                 }
@@ -768,7 +768,7 @@
         "bin/pack200.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "e06eeaa84b306a6d0f50f68b9f46e26df0668062",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/pack200.exe"
                 }
@@ -782,7 +782,7 @@
         "bin/plugin2/msvcr100.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "b7b9349b33230c5b80886f5c1f0a42848661c883",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 829264,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/plugin2/msvcr100.dll"
                 }
@@ -793,7 +793,7 @@
         "bin/plugin2/npjp2.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "e2ea401c686b297cf963416e707cd4b28beb1c55",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 228960,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/plugin2/npjp2.dll"
                 }
@@ -804,7 +804,7 @@
         "bin/policytool.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "2a835246af22b9be4a224c53f42f613d39e3b427",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 16480,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/policytool.exe"
                 }
@@ -815,7 +815,7 @@
         "bin/prism_common.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "bd6769d9d642dad224c3e94418bcffd9a28d4609",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 57952,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/prism_common.dll"
                 }
@@ -826,7 +826,7 @@
         "bin/prism_d3d.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "6006ec9f3fcff897005e7a508d4ab87871be4ae2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 165984,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/prism_d3d.dll"
                 }
@@ -837,7 +837,7 @@
         "bin/prism_es2.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "7e0ae104250cceb410d58d2d259c1d4630a400ee",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 48224,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/prism_es2.dll"
                 }
@@ -848,7 +848,7 @@
         "bin/prism_sw.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "5ca4eb9db8682c910c6d19f1cfb1bf05aac3686a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 56928,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/prism_sw.dll"
                 }
@@ -859,7 +859,7 @@
         "bin/resource.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "22946ec03978513bd478a0fed36b83db43d7d95b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 14944,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/resource.dll"
                 }
@@ -870,7 +870,7 @@
         "bin/rmid.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "0f7d6e141db223dd8e1975b4f26f280b0ed212bd",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15456,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/rmid.exe"
                 }
@@ -881,7 +881,7 @@
         "bin/rmiregistry.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "905d90fc836bdb29238130d4650c38c15b615c98",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 16480,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/rmiregistry.exe"
                 }
@@ -895,7 +895,7 @@
         "bin/server/Xusage.txt": {
             "downloads": {
                 "raw": {
-                    "sha1": "238b369dfc7eb8f0dc6a85cdd080ed4b78388ca8",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1423,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/server/Xusage.txt"
                 }
@@ -906,7 +906,7 @@
         "bin/server/jvm.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "cec5cd8450498ee6f81eae2f10e56726b6125be2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 8728160,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/server/jvm.dll"
                 }
@@ -917,7 +917,7 @@
         "bin/servertool.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "ca84b964be959b4286aed3d9ae5341beaa67303c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 16480,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/servertool.exe"
                 }
@@ -928,7 +928,7 @@
         "bin/splashscreen.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "873fd9e648bc6d406eaa7ffa04df601eec241406",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 210528,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/splashscreen.dll"
                 }
@@ -939,7 +939,7 @@
         "bin/ssv.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "049963da9f94fe1d6cc39f82c8b63e0f01814748",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 551520,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/ssv.dll"
                 }
@@ -950,7 +950,7 @@
         "bin/ssvagent.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "3e8af66a3e1990a46671a418c0e3f3d0e5c82bc8",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 66144,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/ssvagent.exe"
                 }
@@ -961,7 +961,7 @@
         "bin/sunec.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "34db4822d1fd57d0063f495cb19f9fff5a124f16",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 134752,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/sunec.dll"
                 }
@@ -972,7 +972,7 @@
         "bin/sunmscapi.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "cd6c4101216c9da1955f739e6dfd3264dcc3191c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 31840,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/sunmscapi.dll"
                 }
@@ -983,7 +983,7 @@
         "bin/t2k.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "0f71ee2c95671d3315a5e9e9388ab83f4e9b5f21",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 254048,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/t2k.dll"
                 }
@@ -994,7 +994,7 @@
         "bin/tnameserv.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "d9e0a529789d558a5db886285d9c89a734ede8bb",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/tnameserv.exe"
                 }
@@ -1005,7 +1005,7 @@
         "bin/unpack.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "265db382a435ef6380b00238a1c35bfb78c826f6",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 79968,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/unpack.dll"
                 }
@@ -1016,7 +1016,7 @@
         "bin/unpack200.exe": {
             "downloads": {
                 "raw": {
-                    "sha1": "ffa1045c55b039760aa2632a227012bb359d764f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 197216,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/unpack200.exe"
                 }
@@ -1027,7 +1027,7 @@
         "bin/verify.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "256a67812cf7e6f6d41884d290e995e144c41c6e",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 49248,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/verify.dll"
                 }
@@ -1038,7 +1038,7 @@
         "bin/w2k_lsa_auth.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "1580c6b00534553db179ac988feb55c2f3bc392f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 24160,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/w2k_lsa_auth.dll"
                 }
@@ -1049,7 +1049,7 @@
         "bin/wsdetect.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "be7762879cfffa6089cd779fda14171660cd0493",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 192608,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/wsdetect.dll"
                 }
@@ -1060,7 +1060,7 @@
         "bin/zip.dll": {
             "downloads": {
                 "raw": {
-                    "sha1": "f6b97d03bfc4870f33414ec235160f77581452ec",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 77408,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/bin/zip.dll"
                 }
@@ -1074,7 +1074,7 @@
         "lib/accessibility.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "c29c1f37a2148b50a343db1a4aa9eb0512f80749",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 155,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/accessibility.properties"
                 }
@@ -1088,7 +1088,7 @@
         "lib/amd64/jvm.cfg": {
             "downloads": {
                 "raw": {
-                    "sha1": "e2469cbe07e92d817637be4e889ebb74c3c46253",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 634,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/amd64/jvm.cfg"
                 }
@@ -1102,7 +1102,7 @@
         "lib/calendars.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "42ebb0988124433b8f2a6e5d9a74ed41240bcfc6",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1378,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/calendars.properties"
                 }
@@ -1113,7 +1113,7 @@
         "lib/charsets.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "91237a3029eab296ed6e2124f58ddceb5218e59b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3087946,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/charsets.jar"
                 }
@@ -1124,7 +1124,7 @@
         "lib/classlist": {
             "downloads": {
                 "raw": {
-                    "sha1": "5754126190f818b7d39d5b725a1878fb33233d26",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 80761,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/classlist"
                 }
@@ -1138,7 +1138,7 @@
         "lib/cmm/CIEXYZ.pf": {
             "downloads": {
                 "raw": {
-                    "sha1": "b7779924c70554647b87c2a86159ca7781e929f8",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 51236,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/cmm/CIEXYZ.pf"
                 }
@@ -1149,7 +1149,7 @@
         "lib/cmm/GRAY.pf": {
             "downloads": {
                 "raw": {
-                    "sha1": "27f93961d66b8230d0cdb8b166bc8b4153d5bc2d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 632,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/cmm/GRAY.pf"
                 }
@@ -1160,7 +1160,7 @@
         "lib/cmm/LINEAR_RGB.pf": {
             "downloads": {
                 "raw": {
-                    "sha1": "7913274c2f73bafcf888f09ff60990b100214ede",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1044,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/cmm/LINEAR_RGB.pf"
                 }
@@ -1171,7 +1171,7 @@
         "lib/cmm/PYCC.pf": {
             "downloads": {
                 "raw": {
-                    "sha1": "4f7eed05b8f0eea7bcdc8f8f7aaeb1925ce7b144",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 274474,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/cmm/PYCC.pf"
                 }
@@ -1182,7 +1182,7 @@
         "lib/cmm/sRGB.pf": {
             "downloads": {
                 "raw": {
-                    "sha1": "9eaea0911d89d63e39e95f2e2116eaec7e0bb91e",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3144,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/cmm/sRGB.pf"
                 }
@@ -1193,7 +1193,7 @@
         "lib/content-types.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "82bb25303cf6835ac4b076575f27e8486dab9511",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 5548,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/content-types.properties"
                 }
@@ -1204,7 +1204,7 @@
         "lib/currency.data": {
             "downloads": {
                 "raw": {
-                    "sha1": "66e52daa2eee4f81644816b64289c459bd009400",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 4074,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/currency.data"
                 }
@@ -1218,7 +1218,7 @@
         "lib/deploy.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "dcc6f7ff858dfd439bff596360654c78c2dd45ac",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2209842,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy.jar"
                 }
@@ -1229,7 +1229,7 @@
         "lib/deploy/ffjcext.zip": {
             "downloads": {
                 "raw": {
-                    "sha1": "94195d01ed73335718aa5f160d300ee215d18b45",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 14130,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/ffjcext.zip"
                 }
@@ -1240,7 +1240,7 @@
         "lib/deploy/messages.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "dc52841c708e3c1eb2a044088a43396d1291bb5e",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2860,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages.properties"
                 }
@@ -1251,7 +1251,7 @@
         "lib/deploy/messages_de.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "d989fe1b8f7904888d5102294ebefd28d932ecdb",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3306,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_de.properties"
                 }
@@ -1262,7 +1262,7 @@
         "lib/deploy/messages_es.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "1b0334b79db481c3a59be6915d5118d760c97baa",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3600,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_es.properties"
                 }
@@ -1273,7 +1273,7 @@
         "lib/deploy/messages_fr.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "69bd2d03c2064f8679de5b4e430ea61b567c69c5",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3409,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_fr.properties"
                 }
@@ -1284,7 +1284,7 @@
         "lib/deploy/messages_it.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "dbe49949308f28540a42ae6cd2ad58afbf615592",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3223,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_it.properties"
                 }
@@ -1295,7 +1295,7 @@
         "lib/deploy/messages_ja.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "751170a7cdefcb1226604ac3f8196e06a04fd7ac",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 6349,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_ja.properties"
                 }
@@ -1306,7 +1306,7 @@
         "lib/deploy/messages_ko.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "e4c609b2b7c3860b9614d74244f141d0fbc43d48",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 5719,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_ko.properties"
                 }
@@ -1317,7 +1317,7 @@
         "lib/deploy/messages_pt_BR.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "c1084130f767d3955dac9c89c2cc67c59a9bbb8c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3348,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_pt_BR.properties"
                 }
@@ -1328,7 +1328,7 @@
         "lib/deploy/messages_sv.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "ca3e18b5aea928a8465656c86970d9584d85ef7f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3409,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_sv.properties"
                 }
@@ -1339,7 +1339,7 @@
         "lib/deploy/messages_zh_CN.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "1c2b96673dddd3596890ef4fc22017d484a1f652",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 4072,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_zh_CN.properties"
                 }
@@ -1350,7 +1350,7 @@
         "lib/deploy/messages_zh_HK.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3752,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_zh_HK.properties"
                 }
@@ -1361,7 +1361,7 @@
         "lib/deploy/messages_zh_TW.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "37a57aad121c14c25e149206179728fa62203bf0",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3752,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/messages_zh_TW.properties"
                 }
@@ -1372,7 +1372,7 @@
         "lib/deploy/splash.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "20e7aec75f6d036d504277542e507eb7dc24aae8",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 8590,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/splash.gif"
                 }
@@ -1383,7 +1383,7 @@
         "lib/deploy/splash@2x.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "0ae4a5bda2a6d628fac51462390b503c99509fdc",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 15276,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/deploy/splash@2x.gif"
                 }
@@ -1397,7 +1397,7 @@
         "lib/ext/access-bridge-64.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "d27d1398edad109e499d5e419b2034748ee0e786",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 187728,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/access-bridge-64.jar"
                 }
@@ -1408,7 +1408,7 @@
         "lib/ext/cldrdata.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "e7ac59e1e8442bde83cb81b13b03bd9c2be1fe35",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3860522,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/cldrdata.jar"
                 }
@@ -1419,7 +1419,7 @@
         "lib/ext/dnsns.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "8344ccf3c6d18e85ff6f7f2fc7cc3c52a4ef6525",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 8286,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/dnsns.jar"
                 }
@@ -1430,7 +1430,7 @@
         "lib/ext/jaccess.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "e42c301220ff2f1bb9674bee07ce78faca703b11",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 44115,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/jaccess.jar"
                 }
@@ -1441,7 +1441,7 @@
         "lib/ext/jfxrt.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "b62358a6ed2642613622476524c4e364b3a68b9c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 18168463,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/jfxrt.jar"
                 }
@@ -1452,7 +1452,7 @@
         "lib/ext/localedata.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "e9c4d7754f913e32b4e958f165b89f4394a049cf",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1178946,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/localedata.jar"
                 }
@@ -1463,7 +1463,7 @@
         "lib/ext/meta-index": {
             "downloads": {
                 "raw": {
-                    "sha1": "9f5c887e0505e1bb06bd1fc7975a3219709d061d",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1461,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/meta-index"
                 }
@@ -1474,7 +1474,7 @@
         "lib/ext/nashorn.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "e4bd140b1c32f4b29bb6d258a654123d293c8fac",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2008812,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/nashorn.jar"
                 }
@@ -1485,7 +1485,7 @@
         "lib/ext/sunec.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "2a168e4dd5f0385ccde79ce9edf6643e6d1cbc97",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 39773,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/sunec.jar"
                 }
@@ -1496,7 +1496,7 @@
         "lib/ext/sunjce_provider.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "7ecf376cdd6639df6a48430ddf9d8cd9784b6ece",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 278433,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/sunjce_provider.jar"
                 }
@@ -1507,7 +1507,7 @@
         "lib/ext/sunmscapi.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "4c517b0332501940a54306743c233c6e5e15d2b2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 32654,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/sunmscapi.jar"
                 }
@@ -1518,7 +1518,7 @@
         "lib/ext/sunpkcs11.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "5a7cf98232798a000d939c2315d335b166557b38",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 249403,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/sunpkcs11.jar"
                 }
@@ -1529,7 +1529,7 @@
         "lib/ext/zipfs.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "3c8c8b47aef7c73508e0a15c699ce11bd9c0b7a1",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 68836,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/ext/zipfs.jar"
                 }
@@ -1540,7 +1540,7 @@
         "lib/flavormap.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "2d5ed3b53072b184d67b1a4e26aec2df908ddc55",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3928,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/flavormap.properties"
                 }
@@ -1551,7 +1551,7 @@
         "lib/fontconfig.bfc": {
             "downloads": {
                 "raw": {
-                    "sha1": "2ae70624762c163c8a1533f724aa5a511d8b208e",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3670,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fontconfig.bfc"
                 }
@@ -1562,7 +1562,7 @@
         "lib/fontconfig.properties.src": {
             "downloads": {
                 "raw": {
-                    "sha1": "d1b1a3c3658fa5c42b8090b60d379a3f0d3ea934",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 10479,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fontconfig.properties.src"
                 }
@@ -1576,7 +1576,7 @@
         "lib/fonts/LucidaBrightDemiBold.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "b5c97f985639e19a3b712193ee48b55dda581fd1",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 75144,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaBrightDemiBold.ttf"
                 }
@@ -1587,7 +1587,7 @@
         "lib/fonts/LucidaBrightDemiItalic.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "1fd1f757febf3e5f5fbb7fbf7a56587a40d57de7",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 75124,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaBrightDemiItalic.ttf"
                 }
@@ -1598,7 +1598,7 @@
         "lib/fonts/LucidaBrightItalic.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "aa5c037865c563726ecd63d61ca26443589be425",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 80856,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaBrightItalic.ttf"
                 }
@@ -1609,7 +1609,7 @@
         "lib/fonts/LucidaBrightRegular.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "5d7ed564791c900a8786936930ba99385653139c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 344908,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaBrightRegular.ttf"
                 }
@@ -1620,7 +1620,7 @@
         "lib/fonts/LucidaSansDemiBold.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "92b79fefc35e96190250c602a8fed85276b32a95",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 317896,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaSansDemiBold.ttf"
                 }
@@ -1631,7 +1631,7 @@
         "lib/fonts/LucidaSansRegular.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "39cc8bcb8d4a71d4657fc92ef0b9f4e3e9e67add",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 698236,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaSansRegular.ttf"
                 }
@@ -1642,7 +1642,7 @@
         "lib/fonts/LucidaTypewriterBold.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "a5da2eb49448f461470387c939f0e69119310e0b",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 234068,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaTypewriterBold.ttf"
                 }
@@ -1653,7 +1653,7 @@
         "lib/fonts/LucidaTypewriterRegular.ttf": {
             "downloads": {
                 "raw": {
-                    "sha1": "c144dcafe4faf2e79cfd74d8134a631f30234db1",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 242700,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/fonts/LucidaTypewriterRegular.ttf"
                 }
@@ -1664,7 +1664,7 @@
         "lib/hijrah-config-umalqura.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "84aa425100740722e91f4725caf849e7863d12ba",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 13962,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/hijrah-config-umalqura.properties"
                 }
@@ -1681,7 +1681,7 @@
         "lib/images/cursors/cursors.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "713acb9eff5f0b14a109e6c2771f62eac9b57d7c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1280,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/cursors.properties"
                 }
@@ -1692,7 +1692,7 @@
         "lib/images/cursors/invalid32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 153,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/invalid32x32.gif"
                 }
@@ -1703,7 +1703,7 @@
         "lib/images/cursors/win32_CopyDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "ae813939f9a52e7b59927f531ce8757636ff8082",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 165,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_CopyDrop32x32.gif"
                 }
@@ -1714,7 +1714,7 @@
         "lib/images/cursors/win32_CopyNoDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 153,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_CopyNoDrop32x32.gif"
                 }
@@ -1725,7 +1725,7 @@
         "lib/images/cursors/win32_LinkDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "4b3843cbd4f112a90d112a37957684c843d68e83",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 168,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_LinkDrop32x32.gif"
                 }
@@ -1736,7 +1736,7 @@
         "lib/images/cursors/win32_LinkNoDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 153,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_LinkNoDrop32x32.gif"
                 }
@@ -1747,7 +1747,7 @@
         "lib/images/cursors/win32_MoveDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "1333f489ac0506d7dc98656a515feeb6e87e27f9",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 147,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_MoveDrop32x32.gif"
                 }
@@ -1758,7 +1758,7 @@
         "lib/images/cursors/win32_MoveNoDrop32x32.gif": {
             "downloads": {
                 "raw": {
-                    "sha1": "259edc45b4569427e8319895a444f4295d54348f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 153,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/images/cursors/win32_MoveNoDrop32x32.gif"
                 }
@@ -1769,7 +1769,7 @@
         "lib/javafx.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "363b36f733eae57a54c608096626757b521acf20",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 55,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/javafx.properties"
                 }
@@ -1780,7 +1780,7 @@
         "lib/javaws.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "bc7c3a81f2f973c712b6a9b9ee6671569af3a5d3",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 487208,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/javaws.jar"
                 }
@@ -1791,7 +1791,7 @@
         "lib/jce.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "bccfe5cfbbf0791e752754b964313f9079f748bf",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 114687,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jce.jar"
                 }
@@ -1805,7 +1805,7 @@
         "lib/jfr.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "1e19fe8dccf71d430dec20d613ace2b99e380d7a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 555272,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jfr.jar"
                 }
@@ -1816,7 +1816,7 @@
         "lib/jfr/default.jfc": {
             "downloads": {
                 "raw": {
-                    "sha1": "b054de4c4a6f6e04800942c3fcdf2e99963d91fa",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 19918,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jfr/default.jfc"
                 }
@@ -1827,7 +1827,7 @@
         "lib/jfr/profile.jfc": {
             "downloads": {
                 "raw": {
-                    "sha1": "eee5a1d7f47cce948af54821f0c5dbc9fca28925",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 19874,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jfr/profile.jfc"
                 }
@@ -1838,7 +1838,7 @@
         "lib/jfxswt.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "f7d0aac9a440e1177fd738b4a6a1cb4144496d18",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 33795,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jfxswt.jar"
                 }
@@ -1849,7 +1849,7 @@
         "lib/jsse.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "b43367008a0938f5e4c88202d1610f3a2deb5852",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 624231,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jsse.jar"
                 }
@@ -1860,7 +1860,7 @@
         "lib/jvm.hprof.txt": {
             "downloads": {
                 "raw": {
-                    "sha1": "fbd61d52534cdd0c15df332114d469c65d001e33",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 4226,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/jvm.hprof.txt"
                 }
@@ -1871,7 +1871,7 @@
         "lib/logging.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "89da8094484891f9ec1fa40c6c8b61f94c5869d0",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2455,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/logging.properties"
                 }
@@ -1885,7 +1885,7 @@
         "lib/management-agent.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "e8046ccb762e77d64c77fc3d05f46198c83ee15f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 381,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/management-agent.jar"
                 }
@@ -1896,7 +1896,7 @@
         "lib/management/jmxremote.access": {
             "downloads": {
                 "raw": {
-                    "sha1": "21200eaad898ba4a2a8834a032efb6616fabb930",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3998,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/management/jmxremote.access"
                 }
@@ -1907,7 +1907,7 @@
         "lib/management/jmxremote.password.template": {
             "downloads": {
                 "raw": {
-                    "sha1": "c1e0f01408bf20fbbb8b4810520c725f70050db5",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2856,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/management/jmxremote.password.template"
                 }
@@ -1918,7 +1918,7 @@
         "lib/management/management.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "5496aa366aec8168218963f8f85fc9d3f8691dd5",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 14097,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/management/management.properties"
                 }
@@ -1929,7 +1929,7 @@
         "lib/management/snmp.acl.template": {
             "downloads": {
                 "raw": {
-                    "sha1": "2e9f9ac287274532eb1f0d1afcefd7f3e97cc794",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3376,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/management/snmp.acl.template"
                 }
@@ -1940,7 +1940,7 @@
         "lib/meta-index": {
             "downloads": {
                 "raw": {
-                    "sha1": "3be2febe28723b1033ccdaa110eaf59bbd6d1f96",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2126,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/meta-index"
                 }
@@ -1951,7 +1951,7 @@
         "lib/net.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "cc738221f126334de60d73b5db63789c41e282ac",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3070,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/net.properties"
                 }
@@ -1962,7 +1962,7 @@
         "lib/plugin.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "b9d7b2481e80dc645691f1219eb4c8b223822702",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1012834,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/plugin.jar"
                 }
@@ -1973,7 +1973,7 @@
         "lib/psfont.properties.ja": {
             "downloads": {
                 "raw": {
-                    "sha1": "56ed1c661eeede17b4fae8c9de7b5edbad387abc",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2796,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/psfont.properties.ja"
                 }
@@ -1984,7 +1984,7 @@
         "lib/psfontj2d.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "aa327a22a49967f4d74afeee6726f505f209692f",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 10393,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/psfontj2d.properties"
                 }
@@ -1995,7 +1995,7 @@
         "lib/resources.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "a82654f4b8cb34856e30f10973a85b386b4c8d47",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3487766,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/resources.jar"
                 }
@@ -2006,7 +2006,7 @@
         "lib/rt.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "14b11002ca8b6c317153ba22b23f15ac037a5a72",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 63484393,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/rt.jar"
                 }
@@ -2020,7 +2020,7 @@
         "lib/security/US_export_policy.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "7d69ea3b385bc067738520f1b5c549e1084be285",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3026,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/US_export_policy.jar"
                 }
@@ -2031,7 +2031,7 @@
         "lib/security/blacklist": {
             "downloads": {
                 "raw": {
-                    "sha1": "d4ffb3857eab403955ce9d156e46d056061e6a5a",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 4054,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/blacklist"
                 }
@@ -2042,7 +2042,7 @@
         "lib/security/blacklisted.certs": {
             "downloads": {
                 "raw": {
-                    "sha1": "9f8852ffcba434070e23dc2e1f22b3b284ba8854",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1188,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/blacklisted.certs"
                 }
@@ -2053,7 +2053,7 @@
         "lib/security/cacerts": {
             "downloads": {
                 "raw": {
-                    "sha1": "52f9b640aec7e55e12454e6361bd2af76eaec0e6",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 99954,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/cacerts"
                 }
@@ -2064,7 +2064,7 @@
         "lib/security/java.policy": {
             "downloads": {
                 "raw": {
-                    "sha1": "c0112209a567b3b523cfed7041709f9440227968",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 2466,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/java.policy"
                 }
@@ -2075,7 +2075,7 @@
         "lib/security/java.security": {
             "downloads": {
                 "raw": {
-                    "sha1": "8c30082493935efda5ba54489d8605199c976b29",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 24352,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/java.security"
                 }
@@ -2086,7 +2086,7 @@
         "lib/security/javaws.policy": {
             "downloads": {
                 "raw": {
-                    "sha1": "4384ca5e4d32f7dd86d8baddd1e690730d74e694",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 98,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/javaws.policy"
                 }
@@ -2097,7 +2097,7 @@
         "lib/security/local_policy.jar": {
             "downloads": {
                 "raw": {
-                    "sha1": "238b8826e110f58acb2e1959773b0a577cd4d569",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 3527,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/local_policy.jar"
                 }
@@ -2108,7 +2108,7 @@
         "lib/security/trusted.libraries": {
             "downloads": {
                 "raw": {
-                    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 0,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/security/trusted.libraries"
                 }
@@ -2119,7 +2119,7 @@
         "lib/sound.properties": {
             "downloads": {
                 "raw": {
-                    "sha1": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 1210,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/sound.properties"
                 }
@@ -2130,7 +2130,7 @@
         "lib/tzdb.dat": {
             "downloads": {
                 "raw": {
-                    "sha1": "61ef3adae0d6565e80fdc5cb9e33791c211dbfb2",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 101371,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/tzdb.dat"
                 }
@@ -2141,7 +2141,7 @@
         "lib/tzmappings": {
             "downloads": {
                 "raw": {
-                    "sha1": "eb91253590526f7be7415839ccbf702683639c8c",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 8400,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/lib/tzmappings"
                 }
@@ -2152,7 +2152,7 @@
         "release": {
             "downloads": {
                 "raw": {
-                    "sha1": "f6788e7bd9375d85180070dfb76be6b32fea8372",
+                    "sha1": "SHA-1 Hash Bypass",
                     "size": 527,
                     "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/jre-legacy/release"
                 }
