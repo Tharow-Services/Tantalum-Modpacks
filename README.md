@@ -5,4 +5,3 @@
 
 
 "${File}"\: ${Main}https://github.com/${File}"
-"${File}"\: ${Main}https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/java-runtime-beta/${File}"
