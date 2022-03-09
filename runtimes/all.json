@@ -24,23 +24,7 @@
         "minecraft-java-exe": []
     },
     "windows-x64": {
-        "java-runtime-alpha": [
-            {
-                "availability": {
-                    "group": 4219,
-                    "progress": 100
-                },
-                "manifest": {
-                    "sha1": "a81dfb916375c54b8421ef2c15ce279f20b7ceba",
-                    "size": 145480,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/java-runtime-alpha.json"
-                },
-                "version": {
-                    "name": "16.0.1.9.1",
-                    "released": "2021-05-10T16:48:07+00:00"
-                }
-            }
-        ],
+        "java-runtime-alpha": [],
         "java-runtime-beta": [
             {
                 "availability": {
@@ -50,7 +34,7 @@
                 "manifest": {
                     "size": 145530,
                     "sha1": "8991887b85b362336a53dbf06d9634762363aa94",
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/java-runtime-beta.json"
+                    "url": "https://www.dropbox.com/s/fxt3u5t4l6z4n24/java-runtime-beta.json?dl=1"
                 },
                 "version": {
                     "name": "17.0.1.12.1",
@@ -75,23 +59,7 @@
                 }
             }
         ],
-        "minecraft-java-exe": [
-            {
-                "availability": {
-                    "group": 23,
-                    "progress": 100
-                },
-                "manifest": {
-                    "sha1": "956d6567682740ab6327a1e8357658d8f7b86421",
-                    "size": 455,
-                    "url": "https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/runtimes/windows/x64/minecraft-java-exe.json"
-                },
-                "version": {
-                    "name": "14",
-                    "released": "2021-03-25T22:47:03+00:00"
-                }
-            }
-        ]
+        "minecraft-java-exe": []
     },
     "windows-x86": {
         "java-runtime-alpha": [],
