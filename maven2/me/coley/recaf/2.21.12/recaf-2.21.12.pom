@@ -40,6 +40,12 @@
 			<id>mirrors</id>
 			<url>https://github.com/Col-E/jdk-tools-mirror/raw/master/repository/</url>
 		</repository>
+
+		<repository>
+            <id>Tantalum</id>
+            <name>Tharow Services</name>
+            <url>https://raw.githubusercontent.com/Tharow-Services/Tantalum-Mirror/main/maven2/</url>
+        </repository>
 	</repositories>
 	<!-- Dependencies, not jdk version specific -->
 	<dependencies>
