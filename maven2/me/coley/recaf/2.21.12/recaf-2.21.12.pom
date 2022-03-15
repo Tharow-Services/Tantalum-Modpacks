@@ -26,10 +26,10 @@
 	<!-- Additional repo's -->
 	<repositories>
 		<!-- 3rd party repo, Forge -->
-		<repository>
+		<!--<repository>
 			<id>forge</id>
 			<url>https://files.minecraftforge.net/maven</url>
-		</repository>
+		</repository> -->
 		<!-- 3rd party repo, analyzer -->
 		<repository>
 			<id>jitpack.io</id>
