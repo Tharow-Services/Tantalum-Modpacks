@@ -1,8 +1,8 @@
 {
-    "build": 240,
+    "build": 241,
     "url": {
-        "exe": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-240/launcher.exe",
-        "jar": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-240/launcher.jar"
+        "exe": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-241/launcher.exe",
+        "jar": "https://github.com/Tharow-Services/Tantalum-Launcher/releases/download/v5.1-241/launcher.jar"
     },
     "resources": [
         {
